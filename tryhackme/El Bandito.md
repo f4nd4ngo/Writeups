@@ -247,5 +247,13 @@ function scrollToBottom() {
 }
 ```
 /getMessages will return the login page
+
 ![](../imgs/Pasted%20image%2020250112201230.png)
+
+Port 631, returns the CUPS server that seems to be inacessible :
+
+![](../../Pasted%20image%2020250112202012.png)
+
+Port 8080, leads to a Digital Rebellion with Bandit-Coin... that looks shady.
+![](../../Pasted%20image%2020250112203709.png)
 
